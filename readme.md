@@ -1,4 +1,4 @@
-# OnlyOffice Web
+# Office Web
 
 🌐 **Live Demo**: https://ranuts.github.io/document/
 
